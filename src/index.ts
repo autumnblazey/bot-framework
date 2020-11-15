@@ -1,6 +1,8 @@
-export * from "discord.js";
-
-/** h */
-export function h(): void {
-   console.log("h");
+export * from "./discordjs";
+/**
+ * h
+ * @returns h
+ */
+export function h(): string {
+   return "h";
 }
