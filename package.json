@@ -2,8 +2,8 @@
    "name": "@autumnblaze/bot-framework",
    "version": "0.1.0",
    "description": "Personal framework for discord bots, using discord.js",
-   "main": "build/index.js",
-   "types": "build/index.d.ts",
+   "main": "cjs/index.js",
+   "types": "cjs/index.d.ts",
    "scripts": {
       "build": "gulp build",
       "test": "echo none yet lol",

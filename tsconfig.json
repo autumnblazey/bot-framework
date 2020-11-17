@@ -6,6 +6,8 @@
       // that would be great
       "lib": ["esnext"],
       "esModuleInterop": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
       "module": "commonjs",
       "moduleResolution": "node",
       "noImplicitAny": true,
